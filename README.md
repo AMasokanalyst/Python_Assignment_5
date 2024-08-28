@@ -1,7 +1,7 @@
 # Python File Handling
 
 ### Objective
-Demonstrate your understanding of Python file handling by completing the following tasks.
+Demonstrate understanding of Python file handling by completing the following tasks.
 
 ### Tasks:
 
